@@ -20,10 +20,11 @@ const StyledLinkWrapper = styled.div`
   }
 
   a {
+    font-size: '100px';
     margin: 20px auto;
     padding: 10px;
     font-family: var(--font-mono);
-    font-size: var(--fz-xxs);
+    font-size: var(--fz-l);
     line-height: var(--fz-lg);
     letter-spacing: 0.1em;
     writing-mode: vertical-rl;

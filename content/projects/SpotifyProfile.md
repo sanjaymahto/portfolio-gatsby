@@ -1,13 +1,13 @@
 ---
-date: '2018-12-18'
-title: 'Spotify Profile'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '2015-08-01'
+title: 'E-Store.com'
+github: 'https://github.com/sanjaymahto/E-commerce-website/tree/master/Ecommerce'
+external: 'https://github.com/sanjaymahto/E-commerce-website/tree/master/Ecommerce'
 tech:
-  - React
-  - Express
-  - Styled Components
-showInProjects: false
+  - php
+  - JS
+  - Mysql
+showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+E-commerce Website for mobiles.made using technologies like HTML 5, CSS 3 and Bootstrap for frontend and PHP and My Sql as Backend.

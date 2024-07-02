@@ -68,7 +68,6 @@ const Layout = ({ children, location }) => {
 
               <div id="content">
                 {children}
-                <Footer />
               </div>
             </StyledContent>
           )}
